@@ -1,0 +1,24 @@
+[01:35] Sheyma (127.0.0.1) joined the chat.
+[01:35] Omar (127.0.0.1) joined the chat.
+[01:35] Sheyma (127.0.0.1): hi
+[01:35] Omar (127.0.0.1): hi how are you?
+[01:36] Sheyma (127.0.0.1) left the chat.
+[01:42] shima (127.0.0.1) joined the chat.
+[01:42] ali (127.0.0.1) joined the chat.
+[01:42] ali (127.0.0.1): hello everyone
+[01:42] shima (127.0.0.1): hiiii
+[01:43] ali (127.0.0.1): exit
+[01:43] ali (127.0.0.1) left the chat.
+[10:52] shima (127.0.0.1) joined the chat.
+[10:53] omar (127.0.0.1) joined the chat.
+[10:53] shima (127.0.0.1): hello
+[10:53] omar (127.0.0.1) left the chat.
+[10:59] shima (127.0.0.1) joined the chat.
+[10:59] omar (127.0.0.1) joined the chat.
+[10:59] omar (127.0.0.1): helllooo
+[11:00] shima (127.0.0.1) left the chat.
+[12:54] sheyma (127.0.0.1) joined the chat.
+[12:54] ali (127.0.0.1) joined the chat.
+[12:55] ali (127.0.0.1): hello
+[12:55] sheyma (127.0.0.1): hiiii
+[12:55] ali (127.0.0.1) left the chat.

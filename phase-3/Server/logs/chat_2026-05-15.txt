@@ -1,0 +1,4 @@
+[10:59] sheyma (127.0.0.1) joined the chat.
+[11:00] mahla (127.0.0.1) joined the chat.
+[11:00] mahla (127.0.0.1): hi
+[11:00] sheyma (127.0.0.1) left the chat.
